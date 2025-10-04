@@ -3,7 +3,10 @@
 This project demonstrates how to use LangChain's chat models, prompt templates, chains, agents, and memory in Python. It includes several Jupyter notebooks that show different LangChain features, such as sequential chains, conversation memory, and agent tools.
 
 ## screenshot
-!(images/prac.jpg)
+
+### Simple memory remind Example
+![Simple memory remind Screenshot](images/prac.jpg)
+
 
 ## Project Structure
 
